@@ -3,3 +3,4 @@ __pycache__/
 gcc.py
 *.pdf
 asm.o
+x86-64-by-example-final.ipynb
